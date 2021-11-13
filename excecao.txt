@@ -1,0 +1,12 @@
+boolean continua = true;
+        do{
+        try {
+             
+        }
+            catch (NumberFormatException p) {
+             leia.nextLine();
+                  System.out.print("entrada inválida");
+             
+             continua = false;
+             }
+         }while(continua);

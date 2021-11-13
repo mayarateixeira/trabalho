@@ -1,0 +1,73 @@
+H1 {
+    background-color:rgb(241, 241, 241);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 20px;
+    
+}
+div{
+    font-size: 15px;
+}
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8" />
+    <title>A representatividade da comunidade LGBTQIA+ na m�sica</title>
+    <link rel="stylesheet" href="A representatividade da comunidade LGBTQIA+ na m�sica.css" />
+
+</head>
+
+<body>
+
+    <div style="background-color:rgb(255, 16, 16);"><strong>.</strong></div>
+    <div style="background-color:rgb(252, 132, 52);"><strong>.</strong></div>
+    <div style="background-color:rgb(255, 252, 62);"><strong>.</strong></div>
+    <div style="background-color:rgb(10, 126, 6);"><strong>.</strong></div>
+    <div style="background-color:rgb(14, 35, 150);"><strong>.</strong></div>
+    <div style="background-color:rgb(118, 10, 128);"><strong>.</strong></div>
+    </br>
+    <H1>
+        <p>
+        <H1 style="text-align: center;" style="color:rgb(250, 250, 250);">A representatividade da comunidade LGBTQIA+ na
+            m�sica.</H1>
+    </H1>
+    </p>
+
+    <P><strong>Integrantes:</strong> Laryssa Hennes, Mariana Silva e Mayara Teixeira.</P>
+
+    <p><strong>Turma:</strong> 229B.</p>
+
+    <P><strong>Disciplina envolvida:</strong> No memento apenas a de DESENVOLVIMENTO WEB1.</P>
+
+    <P><strong>Professor:</strong> F�bio.</P>
+    </br>
+    <div style="background-color:rgb(255, 16, 16);"><strong>.</strong></div>
+    <div style="background-color:rgb(252, 132, 52);"><strong>.</strong></div>
+    <div style="background-color:rgb(255, 252, 62);"><strong>.</strong></div>
+    <div style="background-color:rgb(10, 126, 6);"><strong>.</strong></div>
+    <div style="background-color:rgb(14, 35, 150);"><strong>.</strong></div>
+    <div style="background-color:rgb(118, 10, 128);"><strong>.</strong></div>
+</body>
+
+</html>
+H1 {
+    background-color:rgb(241, 241, 241);
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 20px;
+    
+}
+div{
+    font-size: 15px;
+}

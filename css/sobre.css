@@ -1,0 +1,136 @@
+H1{
+    background-color:rgb(255, 255, 218);
+    font-size: 40px;
+    font-family: 'Gluten', cursive;
+    color:black;
+    text-align: center;
+}
+p{
+    color:black;
+    font-size: 25px;
+    margin: 30px;
+    text-align: center;
+}
+.cabecalho{
+    background-color: rgb(253, 253, 98);
+    padding: 25px;
+}
+.logo {
+    max-width: 125px;
+    width: 125px;
+    height: 125px;
+}
+.titulo_nav{
+    position: relative;
+    width: 940px;
+    background-color:black;
+
+}
+.menu{
+    position: absolute;
+    top: -70px;
+    right: 0;
+}
+.item_menu{
+    display: inline;
+    margin: 0 0 0 15px;
+    
+}
+.link_menu{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.link_menu:hover{
+    color: rgb(255, 63, 5);
+}
+.cor1{
+    background-color:rgb(255, 16, 16);
+    font-size: 3px;
+    color:black;
+}
+.cor2{
+    background-color:rgb(252, 132, 52);
+    font-size: 3px;
+    color:black;
+}
+.cor3{
+
+    background-color:rgb(255, 252, 62);
+    font-size: 3px;
+    color:black;
+}
+.cor4{
+
+    background-color:rgb(10, 126, 6);
+    font-size: 3px;
+    color:black;
+}
+.cor5{
+
+    background-color:rgb(14, 35, 150);
+    font-size: 3px;
+    color:black;
+}
+.cor6{
+
+    background-color:rgb(118, 10, 128);
+    font-size: 3px;
+    color:black;
+}
+.foto{
+    max-width: 225px;
+    width: 200px;
+    height: 200px;
+    margin: 0 200px 0 500px;
+}
+.rodape {
+    background-color: black;
+    color: white;
+    height: 30 px;
+    text-align: center;
+    padding-top: 10px;
+    bottom: 0px;
+    width: 100%;
+}
+.video{
+   margin: 225px;
+}
+.conteiner-model{
+    border: solid rgb(255, 248, 182);
+    background-color: rgb(255, 253, 253);
+    height: 1250px;
+    width: 1250px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+@media screen and (max-width: 768px) {
+
+    .titulo_nav{
+        width: auto;
+    }
+    h1{
+
+        text-align: center;
+    }
+    .menu{
+        
+        text-align: center;
+    }
+    .titulo_nav{
+        text-align:center;
+    }
+    .link_menu{
+        display: flexbox;
+    }
+}
+body {
+    background-color: rgba(255, 242, 242, 0.041);
+    font-family: 'Gluten', cursive;
+    display: inline-table;
+ 
+}

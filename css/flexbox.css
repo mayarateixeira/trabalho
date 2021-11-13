@@ -1,0 +1,13 @@
+.rodape{
+display: flex;
+align-items: center;
+justify-content: space-around;
+display: flex;
+}
+.container-main{
+    color: darkgray;
+}
+
+
+
+

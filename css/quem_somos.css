@@ -1,0 +1,133 @@
+.cabecalho{
+    background-color: rgb(233, 167, 141);
+    padding: 20px;
+}
+.titulo_nav{
+    position: relative;
+    width: 940px;
+}
+.menu{
+    position: absolute;
+    top: -70px;
+    right: 0;
+}
+.item_menu{
+    display: inline;
+    margin: 0 0 0 15px;
+    
+}
+.link_menu{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+div{
+    font-size: 5px;
+    color:black;
+}
+
+.link_menu:hover{
+    color: cornsilk;
+}
+
+.cor1{
+    display: flex;
+    background-color:rgb(255, 16, 16);
+}
+.cor2{
+    display: flex;
+    background-color:rgb(252, 132, 52);
+}
+.cor3{
+    display: flex;
+    background-color:rgb(255, 252, 62);
+}
+.cor4{
+    display: flex;
+    background-color:rgb(10, 126, 6);
+}
+.cor5{
+    display: flex;
+    background-color:rgb(14, 35, 150);
+}
+.cor6{
+    display: flex;
+    background-color:rgb(118, 10, 128);
+}
+.logo {
+    max-width: 125px;
+    width: 125px;
+    height: 125px;
+    border-radius: 20%;
+    border-width: 50px;
+}
+.quem{
+    width: 40px;
+    margin: 0 auto;
+    text-align: center;
+}
+.img-texto {
+    display: flex;
+}
+
+.img-texto p{
+    text-align: justify;
+    padding: 50px ;
+    font-size: 18px;
+    font-family: 'Gluten', cursive;
+
+}
+.card-pers:hover h2{
+    font-size: 23px;
+    text-align: center;
+    
+ }
+.card-pers{
+
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(230, 233, 240);
+    padding: 5px;
+    margin: 35px;
+    border-radius: 30px;
+}  
+.card-pers h2{
+    
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 0;
+    text-align: center;
+} 
+.rodape {
+    background-color: black;
+    color: white;
+    height: 30 px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 16px;
+}
+@media screen and (max-width: 768px) {
+    .titulo_nav{
+        width: auto;
+    }
+    h1{
+
+        text-align: center;
+    }
+    .menu{
+        
+        text-align: center;
+    }
+    .titulo_nav{
+        text-align:center;
+    }
+    .link_menu{
+        display: flexbox;
+    }
+}
+body{ 
+    font-family: 'Gluten', cursive;
+}
